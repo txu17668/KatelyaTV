@@ -1,7 +1,7 @@
 {
   "cache_time": 7200,
   "api_site": {
-  "mdzy": {
+    "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源",
       "is_adult": false
